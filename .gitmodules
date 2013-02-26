@@ -1,0 +1,6 @@
+[submodule "Powers of Attorney"]
+	path = Powers of Attorney
+	url = ./Powers of Attorney
+[submodule "Terms of Service"]
+	path = Terms of Service
+	url = ./Terms of Service
